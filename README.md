@@ -23,7 +23,7 @@ You can use Voicebank in Utau/OpenUtau with ENUNU plugin
 You can use Voicebank for Pop/Rock music
 Please read phonetic list for easy use,
 Voicebank have extra phonemes "Edge" for Vocalfry, "cl" for Glottalstop
-|Words writing example|
+|Words writing example|                  |
 |---------|-----------------------|
 |Я забыла твоё имя | [j a][z a][b y][l a][t v A][j o][i][mj a] |
 |Солнце святело очень ярко | [s o n][c Y][s v e][tj e][l A][o][ch Y nj][j a r][k A] |
