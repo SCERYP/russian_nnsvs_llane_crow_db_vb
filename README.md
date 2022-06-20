@@ -25,6 +25,6 @@ Please read phonetic list for easy use,
 Voicebank have extra phonemes "Edge" for Vocalfry, "cl" for Glottalstop
 Words writing example
 |----------------------------|
-Я забыла твоё имя - [j a][z a][b y][l a][t v A][j o][i][mj a]
-Солнце святело очень ярко - [s o n][c Y][s v e][tj e][l A][o][ch Y nj][j a r][k A]
-Будущее наступит уже скоро - [b u][d u][shj Y][j e][n a][s t u][pj i t][u][zh e][s k o][r A]
+|Я забыла твоё имя | [j a][z a][b y][l a][t v A][j o][i][mj a]|
+|Солнце святело очень ярко | [s o n][c Y][s v e][tj e][l A][o][ch Y nj][j a r][k A]|
+|Будущее наступит уже скоро | [b u][d u][shj Y][j e][n a][s t u][pj i t][u][zh e][s k o][r A]|
