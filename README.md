@@ -1,6 +1,6 @@
 # Lolita Shiko AI RU Beta (f00001ru_beta)
 Beta AI ver. of Lolita Shiko for NNSVS \ ENUNU
-# Voicebank Acapella test
+# Voicebank Acapella Test
 
 # About Database and Database use
 * Manager/Voice Provider by Aoki Kosuke
@@ -19,7 +19,7 @@ You can use Voicebank in Utau/OpenUtau with ENUNU plugin
 | P    | power                 |
 | C    | cute/soft             |
 
-(Flags don't works on OpenUtau)
+(Flags don't works on OpenUtau)      
 You can use Voicebank for Pop/Rock music  
 You can use this Voicebank for pre-training, experiments and etc  
 Please read phonetic list for easy use,   
