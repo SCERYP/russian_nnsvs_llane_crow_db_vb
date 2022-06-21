@@ -1,5 +1,5 @@
-# Lolita Shiko AI RU (f00001ru)
-AI ver. of Lolita Shiko for NNSVS \ ENUNU
+# Lolita Shiko AI RU Beta (f00001ru_beta)
+Beta AI ver. of Lolita Shiko for NNSVS \ ENUNU
 # Voicebank Acapella test
 
 # About Database and Database use
@@ -21,6 +21,7 @@ You can use Voicebank in Utau/OpenUtau with ENUNU plugin
 
 (Flags don't works on OpenUtau)
 You can use Voicebank for Pop/Rock music  
+You can use this Voicebank for pre-training, experiments and etc  
 Please read phonetic list for easy use,   
 Voicebank have extra phonemes "Edge" for Vocalfry, "cl" for Glottalstop.   
 |Words writing example|                  |
