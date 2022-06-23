@@ -1,7 +1,11 @@
 # Lolita Shiko AI RU Beta (f00001ru_beta)
-![123_20220623143654](https://user-images.githubusercontent.com/75198282/175280474-7433bd9f-d94e-4bed-98cf-a0adfa7cf363.png)
+![123_20220623143654](https://user-images.githubusercontent.com/75198282/175280474-7433bd9f-d94e-4bed-98cf-a0adfa7cf363.png)   
 Beta AI ver. of Lolita Shiko for NNSVS \ ENUNU
 # Voicebank Acapella Test
+
+https://user-images.githubusercontent.com/75198282/175345299-f6eb8617-dc64-47cb-9bb3-cb30f4905b9a.mp4
+
+https://user-images.githubusercontent.com/75198282/175345339-697dbf08-c1b9-4fa0-9ad8-642892a34ef1.mp4
 
 # About Database and Database use
 * Manager/Voice Provider by Aoki Kosuke
