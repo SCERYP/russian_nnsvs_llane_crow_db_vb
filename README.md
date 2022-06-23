@@ -1,5 +1,5 @@
 # Lolita Shiko AI RU Beta (f00001ru_beta)
-![IMG_20220623_133025](https://user-images.githubusercontent.com/75198282/175268788-f1758972-1e34-4451-afb7-816a74375072.jpg)
+![123_20220623143654](https://user-images.githubusercontent.com/75198282/175280474-7433bd9f-d94e-4bed-98cf-a0adfa7cf363.png)
 Beta AI ver. of Lolita Shiko for NNSVS \ ENUNU
 # Voicebank Acapella Test
 
