@@ -14,13 +14,7 @@ Beta AI ver. of Lolita Shiko for NNSVS \ ENUNU
 You can use Database for training , for base model and etc.  
 
 # Voicebank
-You can use Voicebank in Utau/OpenUtau with ENUNU plugin
-| Flag | Purpose               |
-|------|-----------------------|
-| P    | power                 |
-| C    | cute/soft             |
-
-(Flags don't works on OpenUtau)      
+You can use Voicebank in Utau/OpenUtau with ENUNU plugin    
 You can use Voicebank for Pop/Rock music  
 You can use this Voicebank for pre-training, experiments and etc  
 Please read phonetic list for easy use,   
