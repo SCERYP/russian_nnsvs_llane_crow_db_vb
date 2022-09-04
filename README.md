@@ -1,15 +1,15 @@
-# Lolita Shiko AI RU Beta (f00001ru_beta)
-![123_20220623143654](https://user-images.githubusercontent.com/75198282/175280474-7433bd9f-d94e-4bed-98cf-a0adfa7cf363.png)   
-Beta AI ver. of Lolita Shiko for NNSVS \ ENUNU
-# Voicebank Acapella Test
+# Llane Crow AI RU β -  Rose - (f00001ru_beta)
+![10_20220904163442](https://user-images.githubusercontent.com/75198282/188313745-2232d3a8-30b4-43f8-80dc-917702d7ae01.png)
+Beta AI ver. of Llane Crow for NNSVS \ ENUNU
+# Voicebank Test + Voicer test 
 
-https://user-images.githubusercontent.com/75198282/175345299-f6eb8617-dc64-47cb-9bb3-cb30f4905b9a.mp4
+https://user-images.githubusercontent.com/75198282/188313583-8a37bcd0-1aa0-4e38-9dc3-b55316f29445.mp4
 
-https://user-images.githubusercontent.com/75198282/175345339-697dbf08-c1b9-4fa0-9ad8-642892a34ef1.mp4
+https://user-images.githubusercontent.com/75198282/188313590-88eeede0-9526-4ade-b256-80ff2f4275fd.mp4
 
 # About Database and Database use
-* Manager/Voice Provider by Aoki Kosuke
-* Labeled by Sceryp - P
+* Manager/Voice Provider Purple CHerry Crow
+* Labeled by Sceryp
 * Recorded data: 1h (58min without silence) / 17 songs
 * Vocal type: feminine
 * Amount of labels: 19407 
